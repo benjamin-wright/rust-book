@@ -1,6 +1,6 @@
 # Rust Book Examples
 
-A playground environment for examples from the rust book / general experimentation without installing the rust toolchain on your local machine
+A playground environment for examples from the rust book / general experimentation without installing the rust toolchain on your local machine.
 
 ## Requirements
 
